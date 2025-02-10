@@ -1,5 +1,14 @@
-div {text-align: center; font-size: 22px;}
-img {width: 600px;}
+* {background-color: bisque; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {text-align: center; 
+    font-size: 22px;
+}
+
+
+img {width: 500px;
+margin-bottom: 20px;}
 
 
 
